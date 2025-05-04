@@ -50,7 +50,7 @@ body {
     display: flex;
     height: 300px;
     align-items: center;
-    background: url("/assets/R.jpg") no-repeat rgba(0, 0, 0, 0.2);
+    background: url("../assets/R.jpg") no-repeat rgba(0, 0, 0, 0.2);
     background-size: cover;
     background-blend-mode: multiply;
     background-size: cover;
@@ -161,7 +161,7 @@ body {
     width: fit-content;
 }
 .mlk-about-hero {
-    background: url("/assets/bckgrndImage.jpg") no-repeat rgba(0, 0, 0, 0.2);
+    background: url("../assets/bckgrndImage.jpg") no-repeat rgba(0, 0, 0, 0.2);
     background-size: cover;
     background-blend-mode: multiply;
     background-size: cover;
